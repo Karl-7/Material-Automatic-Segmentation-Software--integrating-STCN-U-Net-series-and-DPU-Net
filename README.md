@@ -1,10 +1,17 @@
 # automatic-segmentation-Software--integrating-STCN-U-Net-series-and-DPU-Net
+
 this is a small PyQt5 software that can achieve automatic segmentation of image sequences
+  
   I am terribly sorry that these are all the files that aren't "TOO BIG"
+  
   you can find the models that are supposed to be integrated via my other repositories:
+  
   1. see DPU, U-Net, WPU-Net at: https://github.com/Karl-7/DPU-Net_Double-Propagation-for-segmentation-and-tracking-of-material-microscopic-image-sequences
+  
   2. see my formalized(generalized) STCN at: https://github.com/Karl-7/STCN_for_software_integration
+  
   and please prepare your own dataset, as mine is too big to upload.
+
 HOW TO USE :
   1. prepare your own dataset with the following structure :
   <img width="129" alt="image" src="https://github.com/Karl-7/automatic-segmentation-Software--integrating-STCN-U-Net-series-and-DPU-Net/assets/142679657/22be4e46-a6bc-4b4f-b5d3-e3a5793458b7">
